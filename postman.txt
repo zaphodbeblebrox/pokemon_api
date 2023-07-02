@@ -1,0 +1,5 @@
+https://pokeapi.co/api/v2/pokemon
+https://pokeapi.co/api/v2/pokemon/kabutops
+https://pokeapi.co/api/v2/pokemon/ditto
+https://pokeapi.co/api/v2/pokemon/25
+https://pokeapi.co/api/v2/pokemon/255
